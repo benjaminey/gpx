@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" version="1.1" creator="outdooractive - http://www.outdooractive.com">
+    <metadata>
+        <name>STM-EX - Mustair</name>
+        <author>
+            <name>Frans Van Nieuwenhuyse - Intersoc Belgium</name>
+        </author>
+        <link href="http://www.outdooractive.com/r/39653615"/>
+        <time>2019-06-20T21:06:21.538+02:00</time>
+    </metadata>
+    <trk>
+        <name>STM-EX - Mustair</name>
+        <desc>Klooster van Val Mustair</desc>
+        <trkseg>
+            <trkpt lat="46.601062" lon="10.422288">
+                <ele>1389.1</ele>
+            </trkpt>
+            <trkpt lat="46.60106" lon="10.422299">
+                <ele>1389.1</ele>
+            </trkpt>
+            <trkpt lat="46.601052" lon="10.422342">
+                <ele>1388.7</ele>
+            </trkpt>
+            <trkpt lat="46.601036" lon="10.422405">
+                <ele>1388.3</ele>
+            </trkpt>
+            <trkpt lat="46.601017" lon="10.422462">
+                <ele>1388.0</ele>
+            </trkpt>
+            <trkpt lat="46.600995" lon="10.422516">
+                <ele>1387.6</ele>
+            </trkpt>
+            <trkpt lat="46.600953" lon="10.422635">
+                <ele>1386.6</ele>
+            </trkpt>
+        </trkseg>
+    </trk>
+</gpx>

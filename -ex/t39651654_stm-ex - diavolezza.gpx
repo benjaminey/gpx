@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" version="1.1" creator="outdooractive - http://www.outdooractive.com">
+    <metadata>
+        <name>STM-EX - Diavolezza</name>
+        <author>
+            <name>Frans Van Nieuwenhuyse - Intersoc Belgium</name>
+        </author>
+        <link href="http://www.outdooractive.com/r/39651654"/>
+        <time>2019-06-20T18:45:27.664+02:00</time>
+    </metadata>
+    <trk>
+        <name>STM-EX - Diavolezza</name>
+        <desc>Diavolezza</desc>
+        <trkseg>
+            <trkpt lat="46.440578" lon="9.983311">
+                <ele>2092.75626</ele>
+            </trkpt>
+            <trkpt lat="46.412002" lon="9.965372">
+                <ele>2974.05494</ele>
+            </trkpt>
+        </trkseg>
+    </trk>
+</gpx>

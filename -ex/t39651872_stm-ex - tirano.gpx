@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" version="1.1" creator="outdooractive - http://www.outdooractive.com">
+    <metadata>
+        <name>STM-EX - Tirano</name>
+        <author>
+            <name>Frans Van Nieuwenhuyse - Intersoc Belgium</name>
+        </author>
+        <link href="http://www.outdooractive.com/r/39651872"/>
+        <time>2019-07-15T09:21:55.404+02:00</time>
+    </metadata>
+    <trk>
+        <name>STM-EX - Tirano</name>
+        <desc>Tirano</desc>
+        <trkseg>
+            <trkpt lat="46.21797" lon="10.156223">
+                <ele>437.9</ele>
+            </trkpt>
+            <trkpt lat="46.21799" lon="10.15618">
+                <ele>438.2</ele>
+            </trkpt>
+            <trkpt lat="46.21801" lon="10.15602">
+                <ele>439.0</ele>
+            </trkpt>
+            <trkpt lat="46.21799" lon="10.15601">
+                <ele>438.9</ele>
+            </trkpt>
+            <trkpt lat="46.21796" lon="10.15598">
+                <ele>438.8</ele>
+            </trkpt>
+            <trkpt lat="46.21795" lon="10.15595">
+                <ele>438.8</ele>
+            </trkpt>
+            <trkpt lat="46.21795" lon="10.15591">
+                <ele>438.9</ele>
+            </trkpt>
+            <trkpt lat="46.21795" lon="10.15588">
+                <ele>439.0</ele>
+            </trkpt>
+            <trkpt lat="46.217953" lon="10.155871">
+                <ele>439.0</ele>
+            </trkpt>
+        </trkseg>
+    </trk>
+</gpx>
